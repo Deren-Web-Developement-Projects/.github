@@ -1,4 +1,11 @@
-## Hi there 👋
+# Deren's Web Development Projects
+Creating projects with various technologies to learn Web Development
+
+## Projects Created with HTML, CSS, & Javascript
+
+## Courses Completed
+- FreeCodeCamp - Responsive Web Design
+- The Odin Project - Foundations
 
 <!--
 
