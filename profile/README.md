@@ -2,6 +2,9 @@
 Creating projects with various technologies to learn Web Development
 
 ## Projects Created with Javascript
+<a href="https://github.com/Deren-Web-Developement-Projects/Odin-Foundation-Javascript">
+ <img alt="Dapper Dasher" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Odin-Foundation-Javascript/blob/701b1ae6c30367ae0d1b6c0b29fcc8b2e34762e1/Javascript/Screenshot.png />
+</a>
 
 ## Projects Created with HTML & CSS
 <a href="https://github.com/Deren-Web-Developement-Projects/Odin-Landing-Page">
