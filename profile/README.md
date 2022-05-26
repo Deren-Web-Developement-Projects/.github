@@ -1,7 +1,9 @@
 # Deren's Web Development Projects
 Creating projects with various technologies to learn Web Development
 
-## Projects Created with HTML, CSS, & Javascript
+## Projects Created with Javascript
+
+## Projects Created with HTML & CSS
 
 ## Courses Completed
 - FreeCodeCamp - Responsive Web Design
