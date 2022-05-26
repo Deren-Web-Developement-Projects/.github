@@ -14,7 +14,8 @@ Creating projects with various technologies to learn Web Development
 ## Courses Completed
 - FreeCodeCamp - Responsive Web Design
 - The Odin Project - Foundations
-- 
+
+
 <!--
 
 **Here are some ideas to get you started:**
