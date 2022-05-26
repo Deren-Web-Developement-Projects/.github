@@ -4,6 +4,9 @@ Creating projects with various technologies to learn Web Development
 ## Projects Created with Javascript
 
 ## Projects Created with HTML & CSS
+<a href="https://github.com/Deren-Web-Developement-Projects/Odin-Landing-Page/blob/main/README.md">
+ <img alt="Dapper Dasher" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Odin-Landing-Page/blob/76fac5eed5172f0792ed56ecaeed766f811ae01e/LandingPage.png" />
+</a>
 
 ## Courses Completed
 - FreeCodeCamp - Responsive Web Design
