@@ -1,4 +1,4 @@
- <img alt="Profile Banner" src="https://github.com/Deren-Web-Developement-Projects/.github/blob/43cfbcde2a56884b6fbb2793140b0c1aa821ef8e/profile/Banner-Full-Lined.png" />
+ <img alt="Profile Banner" src="" />
 
 ---
 # Creating projects with various technologies to learn Web Development.
