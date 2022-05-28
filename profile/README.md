@@ -1,7 +1,7 @@
 # Deren's Web Development Projects
 Creating projects with various technologies to learn Web Development
 
-## Projects Created with Javascript
+## Projects Created with JavaScript
 <a href="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data">
  <img alt="ACNH-Creatures Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data/blob/fdecd24c4d40b6b9d163365ac25c05a06508f0e2/Screenshot.png" />
 </a>
