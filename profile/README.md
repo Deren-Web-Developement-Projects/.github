@@ -12,6 +12,9 @@
 </a>
 
 ## Projects Created with HTML & CSS
+<a href="https://github.com/Deren-Web-Developement-Projects/20-MTD-Synergies">
+ <img alt="20 Minutes Till Dawn" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/20-MTD-Synergies/blob/d0e2ed8217ee463574e29ccf3d0bb0d281705da2/D0593D65-A48E-416E-874D-445058DD92E8_1_201_a.jpeg" />
+</a>
 <a href="https://github.com/Deren-Web-Developement-Projects/Odin-Landing-Page">
  <img alt="Odin Landing Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Odin-Landing-Page/blob/76fac5eed5172f0792ed56ecaeed766f811ae01e/LandingPage.png" />
 </a>
