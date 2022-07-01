@@ -22,6 +22,9 @@
  <img alt="CodeCampScreenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Code-Camp-Product-Page/blob/e3ee16612ee50d17c6c36413feb4a36dd729df83/screenshot.png" />
 </a>
 
+### GitHub Pages
+- https://deren-web-developement-projects.github.io/20-MTD-Synergies/
+
 ## Courses Completed
 - FreeCodeCamp - Responsive Web Design
 - The Odin Project - Foundations
