@@ -3,12 +3,12 @@
 ---
 # Creating projects with various technologies to learn Web Development.
 
-## Projects created with React
+## React Projects
 <a href="https://github.com/Deren-Web-Developement-Projects/ocean-creature-facts">
  <img alt="Ocean Facts Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/ocean-creature-facts/blob/2795b0ba0bf88febe525a26495bbfd35784a9852/screenshot.jpg" />
 </a>
 
-## Projects created with JavaScript
+## JavaScript Projects
 <a href="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data">
  <img alt="ACNH-Creatures Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data/blob/fdecd24c4d40b6b9d163365ac25c05a06508f0e2/Screenshot.png" />
 </a>
@@ -16,7 +16,7 @@
  <img alt="Odin Foundation Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Odin-Foundation-Javascript/blob/701b1ae6c30367ae0d1b6c0b29fcc8b2e34762e1/Javascript/Screenshot.png" />
 </a>
 
-## Projects created with HTML & CSS
+## HTML & CSS Projects
 <a href="https://github.com/Deren-Web-Developement-Projects/20-MTD-Synergies">
  <img alt="20 Minutes Till Dawn" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/20-MTD-Synergies/blob/d0e2ed8217ee463574e29ccf3d0bb0d281705da2/D0593D65-A48E-416E-874D-445058DD92E8_1_201_a.jpeg" />
 </a>
