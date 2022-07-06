@@ -34,10 +34,9 @@
 - <a href="https://deren-web-developement-projects.github.io/20-MTD-Synergies/" target="_blank">20 Minutes Till Dawn: Synergy Checklist</a>
 - <a href="https://deren-web-developement-projects.github.io/Odin-Landing-Page/" target="_blank">Odin Project Landing Page</a>
 
-## Courses Completed
+## Online courses completed
 - FreeCodeCamp - Responsive Web Design
 - The Odin Project - Foundations
-
 
 <!--
 
