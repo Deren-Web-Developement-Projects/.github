@@ -35,6 +35,7 @@
 - <a href="https://deren-web-developement-projects.github.io/Odin-Landing-Page/" target="_blank">Odin Project Landing Page</a>
 
 ## Online courses completed
+- Codecademy - Learn C#, Learn JavaScript, Learn CSS
 - FreeCodeCamp - Responsive Web Design
 - The Odin Project - Foundations
 
