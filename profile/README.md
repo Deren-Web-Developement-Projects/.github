@@ -14,6 +14,9 @@
  <img alt="Ocean Facts Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/ocean-creature-facts/blob/2795b0ba0bf88febe525a26495bbfd35784a9852/screenshot.jpg" />
 </a>
 
+#### View projects on GitHub Pages:
+<a href="https://deren-web-development-projects.github.io/travel-journal/">Travel Journal</a>
+
 ## JavaScript Projects
 <a href="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data">
  <img alt="ACNH-Creatures Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data/blob/fdecd24c4d40b6b9d163365ac25c05a06508f0e2/Screenshot.png" />
