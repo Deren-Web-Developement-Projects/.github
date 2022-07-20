@@ -33,7 +33,7 @@
  <img alt="CodeCampScreenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Code-Camp-Product-Page/blob/e3ee16612ee50d17c6c36413feb4a36dd729df83/screenshot.png" />
 </a>
 
-#### GitHub Pages
+#### View projects on GitHub Pages:
 - <a href="https://deren-web-development-projects.github.io/20-MTD-Synergies/" target="_blank">20 Minutes Till Dawn: Synergy Checklist</a>
 - <a href="https://deren-web-development-projects.github.io/Odin-Landing-Page/" target="_blank">Odin Project Landing Page</a>
 
