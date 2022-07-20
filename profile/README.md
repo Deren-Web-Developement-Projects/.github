@@ -4,6 +4,9 @@
 # Creating projects with various technologies to learn Web Development.
 
 ## React Projects
+<a href="https://github.com/Deren-Web-Development-Projects/travel-journal">
+ <img alt="Travel Journal Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Development-Projects/travel-journal/blob/af3efacdc46c221c6a443dc49ba08169cac2c851/screenshot.png" />
+</a>
 <a href="https://github.com/Deren-Web-Developement-Projects/business-card">
  <img alt="Business Card Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/business-card/blob/91e2b7bcb2e28a716d28e2f7080c4583a1d91f67/src/images/screenshot.jpeg" />
 </a>
