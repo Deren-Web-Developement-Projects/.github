@@ -16,6 +16,7 @@
 
 #### View projects on GitHub Pages:
 - <a href="https://deren-web-development-projects.github.io/travel-journal/">Travel Journal</a>
+- <a href="https://deren-web-development-projects.github.io/business-card/">Business Card</a>
 
 ## JavaScript Projects
 <a href="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data">
