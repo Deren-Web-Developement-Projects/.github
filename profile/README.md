@@ -1,9 +1,33 @@
  <img alt="Profile Banner" src="https://github.com/Deren-Web-Developement-Projects/.github/blob/476122a9ae3478615551cc0c664e0a0598c64232/profile/Banner-Full-Lined.png" />
 
 ---
-# Creating projects with various technologies to learn Web Development.
+# Online Courses Completed
+
+- I am Tim Corey
+    - ASP.NET Core: From Start to Finish
+    - .NET Core Dependency Injection
+    - .NET Core AppSettings
+- Codecademy
+    - Learn C#
+    - Learn PHP: Functions
+    - Learn SQL
+    - Learn JavaScript
+    - Learn CSS.
+- FreeCodeCamp
+    - Responsive Web Design.
+- The Odin Project
+    - Foundations.
+ 
+# Projects
+
+## Blazor Server Projects
+
+<a href="https://github.com/Deren-Web-Development-Projects/Blazor-Skyrim-Holds">
+ <img alt="Skyrim Holds, Capitals" width="25%" height="25%" src="https://raw.githubusercontent.com/Deren-Web-Development-Projects/Blazor-Skyrim-Holds/main/Screenshot.png" />
+</a>
 
 ## React Projects
+
 <a href="https://github.com/Deren-Web-Development-Projects/travel-journal">
  <img alt="Travel Journal Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Development-Projects/travel-journal/blob/af3efacdc46c221c6a443dc49ba08169cac2c851/screenshot.png" />
 </a>
@@ -15,10 +39,12 @@
 </a>
 
 #### View projects on GitHub Pages:
+
 - <a href="https://deren-web-development-projects.github.io/travel-journal/">Travel Journal</a>
 - <a href="https://deren-web-development-projects.github.io/business-card/">Business Card</a>
 
 ## JavaScript Projects
+
 <a href="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data">
  <img alt="ACNH-Creatures Screenshot" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/Animal-Crossing-Creature-Data/blob/fdecd24c4d40b6b9d163365ac25c05a06508f0e2/Screenshot.png" />
 </a>
@@ -27,6 +53,7 @@
 </a>
 
 ## HTML & CSS Projects
+
 <a href="https://github.com/Deren-Web-Developement-Projects/20-MTD-Synergies">
  <img alt="20 Minutes Till Dawn" width="25%" height="25%" src="https://github.com/Deren-Web-Developement-Projects/20-MTD-Synergies/blob/d0e2ed8217ee463574e29ccf3d0bb0d281705da2/D0593D65-A48E-416E-874D-445058DD92E8_1_201_a.jpeg" />
 </a>
@@ -38,10 +65,12 @@
 </a>
 
 #### View projects on GitHub Pages:
+
 - <a href="https://deren-web-development-projects.github.io/20-MTD-Synergies/" target="_blank">20 Minutes Till Dawn: Synergy Checklist</a>
 - <a href="https://deren-web-development-projects.github.io/Odin-Landing-Page/" target="_blank">Odin Project Landing Page</a>
 
 ## Online courses completed
+
 - Codecademy - Learn C#, Learn JavaScript, Learn CSS.
 - FreeCodeCamp - Responsive Web Design.
 - The Odin Project - Foundations.
