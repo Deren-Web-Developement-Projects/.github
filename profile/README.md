@@ -69,12 +69,6 @@
 - <a href="https://deren-web-development-projects.github.io/20-MTD-Synergies/" target="_blank">20 Minutes Till Dawn: Synergy Checklist</a>
 - <a href="https://deren-web-development-projects.github.io/Odin-Landing-Page/" target="_blank">Odin Project Landing Page</a>
 
-## Online courses completed
-
-- Codecademy - Learn C#, Learn JavaScript, Learn CSS.
-- FreeCodeCamp - Responsive Web Design.
-- The Odin Project - Foundations.
-
 <!--
 
 **Here are some ideas to get you started:**
