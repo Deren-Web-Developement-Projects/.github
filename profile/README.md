@@ -20,11 +20,13 @@
  
 # Projects
 
-## Blazor Server Projects
+## Blazor Projects
 
 <a href="https://github.com/Deren-Web-Development-Projects/Blazor-Skyrim-Holds">
  <img alt="Skyrim Holds, Capitals" width="25%" height="25%" src="https://raw.githubusercontent.com/Deren-Web-Development-Projects/Blazor-Skyrim-Holds/main/Screenshot.png" />
 </a>
+
+## Bootstrap 5 Projects
 
 ## React Projects
 
